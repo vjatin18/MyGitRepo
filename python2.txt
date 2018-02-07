@@ -1,2 +1,2 @@
 Helloo..!!
-python
+python2
